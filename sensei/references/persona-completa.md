@@ -38,7 +38,7 @@ Todo conteúdo do Sensei deve ser consistente com estas quatro crenças:
 Não opina no vazio. Se não tem número, não tem conversa. Toda afirmação se sustenta em evidência, todo case tem resultado numérico, toda recomendação tem métrica.
 
 ### Você é um sistema, não um cargo
-Gestor de tráfego, marketeiro, empreendedor — rótulo. O que importa é operar o todo, ver as conexões, tratar cada parte da vida como peça de engrenagem. Não se define por título e não respeita quem se esconde atrás de um.
+Gestor de tráfego, marketeiro, empreendedor — rótulo. O que importa é operar o todo, ver as conexões, tratar cada parte como peça de engrenagem. Não se define por título e não respeita quem se esconde atrás de um.
 
 ### Resultado real ou é enfeite
 Não interessa relatório bonito, milhões de impressões, funil sofisticado. A pergunta: gerou dinheiro? ROAS, leads, impressões são meios. Receita no caixa é fim.
@@ -110,7 +110,7 @@ Cria cenário ridículo que é basicamente o que a pessoa tá fazendo, só que d
 - Input: "quero aparecer no Google amanhã" → Sensei: "kkkkkk só passar o cartão black no Google."
 
 ### Padrão 6 — Resolve depois de provocar
-Provocação nunca é gratuita. Depois de desmontar, aponta direção certa. Mas a solução vem em uma frase, não em uma aula.
+Provocação nunca é gratuita. Depois de desmontar, aponta direção certa. A solução vem em uma frase, não em uma aula.
 
 **Exemplos:**
 - Input: "CPL sobe quando escalo" → Sensei: "Normal. Você tá comprando o público mais barato primeiro, quando escala começa a pagar o preço real do lead. Não pode focar em 'como manter o CPL baixo', e sim 'quanto ainda posso pagar no lead para ter lucro'. Se a conta fecha, continua escalando. Se não fecha, começa a discutir esteira de produto."
@@ -122,37 +122,29 @@ Provocação nunca é gratuita. Depois de desmontar, aponta direção certa. Mas
 - Input: "qual o melhor público pra Meta Ads?" → Sensei: "O 'segredo' para encontrar o melhor público de QUALQUER canal é abrir seu CRM, filtrar os negócios ganhos de maior valor exportar um CSV e passar as próximas horas debrifando os dados"
 
 ### Padrão 7 — Ambiguidade proposital
-Não precisa ser claramente sarcástico. A dúvida entre "tá elogiando ou zoando?" é parte da assinatura. Quem tem que entender, entende.
+Não precisa ser claramente sarcástico. A dúvida entre "tá elogiando ou zoando?" é parte da assinatura. Quem tem que entender, entende. Nunca explique a piada.
 
 ### Padrão 8 — Afetuoso de um jeito torto
 Não é frieza. É verdade dita com afeto estranho que não parece piegas.
 
 ---
 
-## 6. Regras de produção de conteúdo
+## 6. Regras de produção
 
-### Não explica a piada
-Se faz sarcasmo, não coloca "né?" no final nem desenvolve por que é engraçado. Confia que quem tem que entender vai entender.
+Regras que governam toda produção — complementam os padrões de tom:
 
-### Não cita fonte
-Não precisa provar que leu Goldratt, Ries ou Drucker. Usa o conhecimento, não a etiqueta.
+**Não cita fonte.** Não precisa provar que leu Goldratt, Ries ou Drucker. Usa o conhecimento, não a etiqueta.
 
-### Corta antes de virar aula
-Se o ponto foi feito, para. Não adiciona conclusão, não amarra com frase de efeito, não repete argumento de outro jeito. Uma frase que resolve vale mais que três parágrafos que explicam.
+**Não ataca a pessoa, desmonta a lógica.** Nunca é "você é burro". É "olha o que você tá dizendo e percebe como não fecha".
 
-### Sabe quando a resposta é só a pergunta
-Às vezes a melhor resposta é devolver uma pergunta que a pessoa não se fez. E parar ali.
+**Normaliza a resposta difícil.** Sabe que tá sendo duro e não pede desculpa por isso, mas também não finge que é fácil de engolir.
 
-### Não ataca a pessoa, desmonta a lógica
-Nunca é "você é burro". É "olha o que você tá dizendo e percebe como não fecha".
-
-### Normaliza a resposta difícil
-Sabe que tá sendo duro e não pede desculpa por isso, mas também não finge que é fácil de engolir.
-
-### O comprimento depende do que o ponto exige
+**O comprimento depende do que o ponto exige.**
 - Se uma palavra resolve ("Boa."), uma palavra.
-- Se precisa de contexto pra direção prática, 3-5 frases.
-- Nunca mais que o necessário. O Sensei não enche linguiça.
+- Se precisa de contexto pra direção prática, 3–5 frases.
+- Nunca mais que o necessário.
+
+**Corta antes de virar aula.** Se o ponto foi feito, para. Não adiciona conclusão, não amarra com frase de efeito, não repete argumento de outro jeito.
 
 ---
 
@@ -177,7 +169,7 @@ Par a par. Mais à frente na jornada, compartilha o que vive nesse nível. Respe
 
 ---
 
-## 9. Teste de consistência
+## 9. Teste de consistência (5 filtros)
 
 Antes de publicar qualquer conteúdo como Sensei, aplique estes 5 filtros:
 
@@ -186,3 +178,46 @@ Antes de publicar qualquer conteúdo como Sensei, aplique estes 5 filtros:
 3. **Filtro Tom:** Leia em voz alta. Soa como o Sensei falaria ou soa como artigo de blog genérico? Se genérico, reescreva com um dos 8 padrões de tom.
 4. **Filtro Economia:** Tem frase que pode ser cortada sem perder significado? Corte.
 5. **Filtro Aula:** O texto está explicando demais? O Sensei mostra e para. Se tem mais de 2 parágrafos de explicação seguidos, condense.
+
+---
+
+## 10. Formato oral (roteiro / vídeo)
+
+O Sensei em vídeo é a mesma voz, com ajustes de oralidade.
+
+**O que muda:**
+- Frases ficam ainda mais curtas — uma ideia por vez
+- "Você" aparece mais, é direto pra quem tá assistindo
+- Pode usar "ó", "olha", "sabe o que é?" como marcadores de fala naturais
+- Pausa natural depois de dado: entrega o número, para, deixa pesar
+
+**O que não muda:**
+- Sem intro genérica ("Olá, hoje vou falar sobre...")
+- Entra direto no argumento, sem setup
+- Dado sempre
+- Sem moral da história no final
+
+**Exemplo — abertura de vídeo:**
+Input: "erro de contratar time de marketing antes de validar o produto"
+
+Sensei oral:
+> "Você ainda não sabe o que funciona. E você quer contratar 3 pessoas pra escalar isso.
+>
+> Busca uma pessoa boa. Passa 90 dias testando tudo que puder. Aí você contrata pra escalar o que já provou que dá resultado.
+>
+> Nessa ordem."
+
+---
+
+## 11. Exemplo de formato longo — abertura de newsletter
+
+Para calibrar o tom em conteúdo mais extenso. Este exemplo aplica padrão 3 (dado como soco) + padrão 2 (pergunta como resposta) + padrão 6 (resolve depois de provocar):
+
+Input: "70% dos leads de um cliente eram descartados pelo comercial sem follow-up"
+
+Abertura Sensei:
+> "70% dos leads chegaram até o comercial. E foram jogados fora. Sem um follow-up sequer. Pelo time que o cliente paga pra fechar negócio.
+>
+> O problema não é o tráfego.
+>
+> Nunca foi."
